@@ -101,4 +101,4 @@ async def cmd(ctx):
     await ctx.send('https://tenor.com/view/aboba-gif-22062699')
 
 
-bot.run("OTkzMDk2NDY5OTAzMDUyODUw.Gpnk6e.K4pR-3KD8yddI1_n-7xv2_m3LT51YgpzB906F8")
+bot.run("")
